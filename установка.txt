@@ -1,0 +1,22 @@
+ЗАПУСКЕШЬ  VISUAL STUDIO CODE
+
+открыть папку  site_viz
+
+==========================
+
+в терминале  
+
+cd client
+  -  переходишь в папку  client
+ yarn install
+
+cd site_viz
+   -  переходишь в папку site_viz
+  yarn install
+
+После того как все установится .
+- из папки  site_viz  запускаешь  в терминале   : npm run dev
+
+
+
+

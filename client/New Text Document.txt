@@ -1,0 +1,5 @@
+mongodb://<dbuser>:<dbpassword>@ds143542.mlab.com:43542/databasegen
+
+===========================================================
+genady1962
+zenit2017
